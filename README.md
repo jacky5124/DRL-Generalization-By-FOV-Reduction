@@ -1,5 +1,5 @@
 # Brief Introduction
-The code used to run experiments is written upon the following starter kit which was originally for NeurIPS 2020 - Procgen competition. The code is located in the Jupyter notebook named project.ipynb inside the sagemaker folder.
+The code used to run experiments of Deep Reinforcement Learning Generalization by Field Of View Reduction is written upon the following starter kit which was originally for NeurIPS 2020 - Procgen competition. The code is located in the Jupyter notebook named project.ipynb inside the sagemaker folder. Note that inorder to run the experiments, you need to follow the instructions described below to prepare the computing resources on AWS and upload this project to Amazon SageMaker and run the notebook.
 
 # NeurIPS 2020 - Procgen Starter Kit with Amazon SageMaker Reinforcement Learning
 This is the Amazon SageMaker Reinforcement Learning starter kit for the [NeurIPS 2020 - Procgen competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) hosted on [AIcrowd](https://www.aicrowd.com/).
