@@ -1,2 +1,8 @@
-ray[rllib]==0.8.5
-procgen==0.10.1
+# ray[rllib]==0.8.6
+# procgen==0.10.1
+procgen==0.10.4
+# tensorflow-gpu==2.2.0
+# downgrade Gym
+gym==0.15.3
+# need opencv for resizing obs
+opencv-python-headless==4.5.5.62
